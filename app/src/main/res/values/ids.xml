@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="pickup" type="id">pick_up</item>
+    <item name="nextday" type="id">next_day_ground_delivery</item>
+    <item name="sameday" type="id">same_day_messenger_service</item>
+</resources>
